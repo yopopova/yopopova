@@ -1,10 +1,17 @@
 <h2>Skills</h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
 
-<div align="center">
+<h2>Design Skills</h2>
+<div>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" />
+</div>
+
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yopopova" /> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopopova&layout=compact" />
-</div>
+</div> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopopova&layout=compact" /> -->
 
 <!---
