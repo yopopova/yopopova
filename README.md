@@ -1,3 +1,6 @@
+<h2>About Me</h2>
+<p>Hello! My name is Yoanna, and I'm a web development student with JavaScript. My interests are in front-end development and web design. You can contact me and view my projects at the following links:</p>
+
 <h2>Programming Skills</h2>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
