@@ -1,7 +1,7 @@
-<h2>About Me</h2>
-<p>Hello! My name is Yoanna, and I'm a web development student with JavaScript. My interests are in front-end development and web design. You can contact me and view my projects at the following links:</p>
+<h1>Hello, I'm Yoanna Popova!</h1>
+<p>Currently, I'm a web development student with JavaScript at SoftUni. My interests are in front-end development and web design. I work with technologies like JavaScript, HTML, and CSS and I'm keen on creating web apps. You can contact me on <a href="https://bg.linkedin.com/in/yopopova">LinkedIn</a> and check out my projects on <a href="https://github.com/yopopova">GitHub</a> and <a href="https://www.behance.net/yopopova">Behance</a>.</p>
 
-<h2>Programming Skills</h2>
+<h1>Programming Skills</h1>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 </div>
 
-<h2>Design Skills</h2>
+<h1>Design Skills</h1>
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />
