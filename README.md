@@ -1,3 +1,6 @@
+<meta name="keywords" content="yopopova, Yoanna Popova, GitHub, JavaScript, HTML, CSS">
+<meta name="description" content="Yoanna Popova's Github Profile Page">
+
 <h1>Hello, I'm Yoanna Popova!</h1>
 <p>Currently, I'm a web development student with JavaScript at SoftUni. My interests are in front-end development and web design. I work with technologies like JavaScript, HTML, and CSS and I'm keen on creating web apps. You can contact me on <a href="https://bg.linkedin.com/in/yopopova">LinkedIn</a> and check out my projects on <a href="https://github.com/yopopova">GitHub</a> and <a href="https://www.behance.net/yopopova">Behance</a>.</p>
 
