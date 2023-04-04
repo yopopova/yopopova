@@ -23,8 +23,8 @@
 
 <h2>Certificates</h2>
 <div>
-  <a href="https://softuni.bg/certificates/details/107571/c144cd5c"><strong>JavaScript Basics</strong></a>
-  <a href="https://softuni.bg/certificates/details/75541/966be246"><strong>HTML & CSS</strong></a>
+  <p><a href="https://softuni.bg/certificates/details/107571/c144cd5c"><strong>JavaScript Basics</strong></a></p>
+  <p><a href="https://softuni.bg/certificates/details/75541/966be246"><strong>HTML & CSS</strong></a></p>
 </div>
 
 <!---
