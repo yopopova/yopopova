@@ -2,7 +2,7 @@
 <meta name="description" content="Yoanna Popova's Github Profile Page">
 
 <h2>About Me</h2>
-<p>Hello! My name is Yoanna, and I'm a web development student with JavaScript. My interests are in front-end development and web design. I work with technologies like JavaScript, HTML, and CSS and I'm keen on creating web apps. You can learn more about me on <a href="https://bg.linkedin.com/in/yopopova" target="_blank"><strong>LinkedIn</strong></a> and check out my projects on <a href="https://github.com/yopopova" target="_blank"><strong>GitHub</strong></a> and <a href="https://www.behance.net/yopopova" target="_blank"><strong>Behance</strong></a>.</p>
+<p>Hello! My name is Yoanna, and I'm a web development student with JavaScript. My interests are in front-end development and web design. I work with technologies like JavaScript, HTML, and CSS and I'm keen on creating web apps. You can learn more about me on <a href="https://bg.linkedin.com/in/yopopova"><strong>LinkedIn</strong></a> and check out my projects on <a href="https://github.com/yopopova"><strong>GitHub</strong></a> and <a href="https://www.behance.net/yopopova"><strong>Behance</strong></a>.</p>
 
 <h2>Programming Skills</h2>
 <div>
