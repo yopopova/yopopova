@@ -21,12 +21,30 @@
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" />
 </div>
 
-<h2>Certificates</h2>
+<h2>Courses and Certificates</h2>
 <div>
-  <p><a href="https://softuni.bg/certificates/details/130608/93453a1a"><strong>JavaScript Advanced</strong></a></p>
-  <p><a href="https://softuni.bg/certificates/details/119696/7a712fd5"><strong>JavaScript Fundamentals</strong></a></p>
-  <p><a href="https://softuni.bg/certificates/details/107571/c144cd5c"><strong>JavaScript Basics</strong></a></p>
-  <p><a href="https://softuni.bg/certificates/details/75541/966be246"><strong>HTML & CSS</strong></a></p>
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Certificate</th>
+  </tr>
+  <tr>
+    <td>JavaScript Advanced</td>
+    <td><a href="https://softuni.bg/certificates/details/130608/93453a1a"><strong>See certificate</strong></a></td>
+  </tr>
+  <tr>
+    <td>JavaScript Fundamentals</td>
+    <td><a href="https://softuni.bg/certificates/details/119696/7a712fd5"><strong>See certificate</strong></a></td>
+  </tr>
+  <tr>
+    <td>JavaScript Basics</td>
+    <td><a href="https://softuni.bg/certificates/details/107571/c144cd5c"><strong>See certificate</strong></a></td>
+  </tr>
+  <tr>
+    <td>HTML & CSS</td>
+    <td><a href="https://softuni.bg/certificates/details/75541/966be246"><strong>See certificate</strong></a></td>
+  </tr>
+</table>
 </div>
 
 <!---
